@@ -1,1 +1,1 @@
-web: node COVID-19_Dashboard.py
+web: gunicorn COVID-19_Dashboard:server
