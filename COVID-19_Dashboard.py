@@ -28,7 +28,7 @@ pd.set_option('mode.chained_assignment', None)
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
-
+server=app.server
 
 # In[293]:
 
@@ -1593,5 +1593,5 @@ def Update_Vaccine_India_Top_10_States(Start_Date,End_Date,Span_Selected):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True,use_reloader=False)
+    app.run_server(debug=False)
 
