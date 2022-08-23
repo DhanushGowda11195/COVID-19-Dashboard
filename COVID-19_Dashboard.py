@@ -1593,5 +1593,5 @@ def Update_Vaccine_India_Top_10_States(Start_Date,End_Date,Span_Selected):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=False)
+    app.run(debug=False)
 
