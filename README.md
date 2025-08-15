@@ -121,7 +121,7 @@ The main Packages used are -
 To run this notebook interactively:
 
 1. Download this repository in a zip file by clicking on this [link](https://github.com/DhanushGowda11195/COVID-19-Dashboard/archive/refs/heads/main.zip) or execute this from the terminal:
-``
+`https://github.com/DhanushGowda11195/COVID-19-Dashboard.git`
 
 2. Install [virtualenv](http://virtualenv.readthedocs.org/en/latest/installation.html).
 3. Navigate to the directory where you unzipped or cloned the repo and create a virtual environment with `virtualenv env`.
