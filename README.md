@@ -13,18 +13,15 @@ There are 2 tabs-
 
 The dashboard provides information on the latest data available on COVID-19, such as new cases, deaths, recovered, and other valuable data to gauge the transmission and response to the pandemic. 
 
-### Video
-![App Screenshot](https://github.com/bharathngowda/COVID_19_Dashboard/blob/master/video.gif)
-
 ### Screenshots
 
 #### Global Tab
 
-![App Screenshot](https://github.com/bharathngowda/COVID_19/blob/master/Screenshots/Figure-6.png)
+![App Screenshot](https://github.com/DhanushGowda11195/COVID-19-Dashboard/blob/main/Screenshots/Figure-6.png)
 
 #### India Tab
 
-![App Screenshot](https://github.com/bharathngowda/COVID_19/blob/master/Screenshots/Figure-7.png)
+![App Screenshot](https://github.com/DhanushGowda11195/COVID-19-Dashboard/blob/main/Screenshots/Figure-7.png)
 
 
   
@@ -51,7 +48,7 @@ It contains 4 indicators - Confirmed, Active, Recovered, Deaths.
 - Recovered - is the total number of patients who have recovered from the infection as on last refreshed date.
 - Deaths - is the running total of all COVID-19 releated deaths
 
-![App Screenshot](https://github.com/bharathngowda/COVID_19/blob/master/Screenshots/Figure-1.png)
+![App Screenshot](https://github.com/DhanushGowda11195/COVID-19-Dashboard/blob/main/Screenshots/Figure-1.png)
 
 
 2. #### Top 10 Affected Countries/states
@@ -59,13 +56,13 @@ It contains 4 indicators - Confirmed, Active, Recovered, Deaths.
 It provides the information on Top 10 countries/states with highest active cases in a tabbular format.
 The table contains details of Country/ State Name, Confirmed, Active, Recovered and Deaths
 
-![App Screenshot](https://github.com/bharathngowda/COVID_19/blob/master/Screenshots/Figure-2.png)
+![App Screenshot](https://github.com/DhanushGowda11195/COVID-19-Dashboard/blob/main/Screenshots/Figure-2.png)
 
 3. #### Chropleth Map
 
 This Figure provides the Active cases across the world/country. The darker the color the higher the infection rate in such countries or states.
 
-![App Screenshot](https://github.com/bharathngowda/COVID_19/blob/master/Screenshots/Figure-3.png)
+![App Screenshot](https://github.com/DhanushGowda11195/COVID-19-Dashboard/blob/main/Screenshots/Figure-3.png)
 
 4. #### Global/India Trendlines 
 
@@ -94,14 +91,14 @@ This Figure provides information on the new active cases, recovered, deaths reco
 Logic used - new cases are calculated by subtracting the data available for max date in the selected date range with the data for max date -1 
 
 
-![App Screenshot](https://github.com/bharathngowda/COVID_19/blob/master/Screenshots/Figure-4.png)
+![App Screenshot](https://github.com/DhanushGowda11195/COVID-19-Dashboard/blob/main/Screenshots/Figure-4.png)
 
 7. #### Top 10 Affected Countries/states
 
 This Figure provides the information on Top 10 countries/states with highest active cases.
 The figure contains details of Country/ State Name, Confirmed, Active, Recovered and Deaths
 
-![App Screenshot](https://github.com/bharathngowda/COVID_19/blob/master/Screenshots/Figure-5.png)
+![App Screenshot](https://github.com/DhanushGowda11195/COVID-19-Dashboard/blob/main/Screenshots/Figure-5.png)
 
 
 
